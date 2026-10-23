@@ -1,5 +1,5 @@
 All textures in this folder: Poly Haven (https://polyhaven.com), license CC0 1.0 (public domain).
-Diffuse maps, 1k JPG, downloaded 2026-10-24 from https://api.polyhaven.com/files/<asset>.
+Diffuse maps, 1k JPG downloaded 2026-10-24 from https://api.polyhaven.com/files/<asset>, resized to 512px (JPEG q72) for fast mobile loading.
 
 worn_plaster_wall.jpg      https://polyhaven.com/a/worn_plaster_wall      walls before restoration
 damaged_plaster.jpg        https://polyhaven.com/a/damaged_plaster        ceiling before restoration
