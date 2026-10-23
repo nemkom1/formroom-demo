@@ -1,0 +1,12 @@
+All textures in this folder: Poly Haven (https://polyhaven.com), license CC0 1.0 (public domain).
+Diffuse maps, 1k JPG, downloaded 2026-10-24 from https://api.polyhaven.com/files/<asset>.
+
+worn_plaster_wall.jpg      https://polyhaven.com/a/worn_plaster_wall      walls before restoration
+damaged_plaster.jpg        https://polyhaven.com/a/damaged_plaster        ceiling before restoration
+old_wood_floor.jpg         https://polyhaven.com/a/old_wood_floor         worn floor overlay
+wood_floor.jpg             https://polyhaven.com/a/wood_floor             floor: oak boards
+herringbone_parquet.jpg    https://polyhaven.com/a/herringbone_parquet    floor: herringbone
+dark_wooden_planks.jpg     https://polyhaven.com/a/dark_wooden_planks     floor: walnut
+smooth_concrete_floor.jpg  https://polyhaven.com/a/smooth_concrete_floor  floor: microcement
+floor_tiles_02.jpg         https://polyhaven.com/a/floor_tiles_02         floor: porcelain tile
+marble_tiles.jpg           https://polyhaven.com/a/marble_tiles           floor: marble
